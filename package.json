@@ -1,0 +1,21 @@
+{
+  "name": "inline-tailwind",
+  "version": "3",
+  "description": "Regular old css",
+  "license": "Nolicense",
+  "repository": "https://github.com/gokhanmeteerturk/inline-tailwind",
+  "bin": {
+  },
+  "workspaces": [
+  ],
+  "scripts": {
+  },
+  "files": [
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "engines": {
+  }
+}
