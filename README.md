@@ -43,7 +43,7 @@ Tailwind (190.2kB gzip)
 Inline tailwind (0 bytes uncompressed, 25 bytes gzipped)
 (no installation):
 ```html
-<div class="overflow:hidden;border: 4px solid black"> Hi! </div>
+<div style="overflow:hidden;border: 4px solid black"> Hi! </div>
 ```
 
 
